@@ -4,9 +4,16 @@
 
 Hi my name is Charlton, I am currently in my second of 3 year degree apprenticeship with QA & Roehampton University, UK.
 
-I have mainly used C# to program, but currently in the process of learning Python.
+I have mainly used C# and .NET to program, but building projects Python for my degree.
 
-In my spare time I run a basketball team, spends time with my family and play fighting games.
+In my spare time I:
+- I run a basketball team ([www.horwichbasketball.com](https://www.horwichbasketball.co.uk))
+- Spend time with my family
+- DJ And write music (Admittiedly not much in recent years) - [www.shotomusic.co.uk](http://www.shotomusic.co.uk)
+- Play fighting games:
+    - Street Fighter
+    - Tekken
+    - Guilty Gear
 
 <!--
 **ShotoUK/ShotoUK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
