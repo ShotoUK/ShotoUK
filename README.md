@@ -9,7 +9,7 @@ I have mainly used C# and .NET to program, but building projects Python for my d
 In my spare time I:
 - I run a basketball team ([www.horwichbasketball.com](https://www.horwichbasketball.co.uk))
 - Spend time with my family
-- DJ And write music (Admittiedly not much in recent years) - [www.shotomusic.co.uk](http://www.shotomusic.co.uk)
+- DJ And write music (Though not much in recent years) - [www.shotomusic.co.uk](http://www.shotomusic.co.uk)
 - Play fighting games:
     - Street Fighter
     - Tekken
